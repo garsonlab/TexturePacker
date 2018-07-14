@@ -5,12 +5,13 @@
 ---
 
 #### 1, 创建.asset
-![](https://github.com/garsonlab/TexturePacker/raw/master/TexturePackger/Create.png)
+![](https://github.com/garsonlab/TexturePacker/raw/master/Create.png)
 
 
 #### 2, 编辑.asset
 可以直接拖入文件夹和图片，只能打包**.png**图片
-![](https://github.com/garsonlab/TexturePacker/raw/master/TexturePackger/Inspector.png)
+
+![](https://github.com/garsonlab/TexturePacker/raw/master/Inspector.png)
 
 选择保存路径，点击Packager按钮后即可生成图集
 
