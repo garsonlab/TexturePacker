@@ -1,14 +1,23 @@
 
 # TexturePacker
 
-	图集编辑器，用于手动构建图集，仿Unity2017 SpriteAtlas
----
 
-#### 1, 创建.asset
+### 1> [手动选择图片生成图集](./TexturePacker2/CombineSprites.cs)
+选择的图片要设置可读写，选择是否去除图片多余透明可能会减少最终生成的图集大小。
+使用方式 **Tools/CustomAtlas**
+
+
+---
+### 2> [仿制版 SpriteAtlas](./TexturePacker/)
+
+图集编辑器，用于手动构建图集，仿Unity2017 SpriteAtlas
+
+
+#### a, 创建.asset
 ![](https://github.com/garsonlab/TexturePacker/raw/master/Create.png)
 
 
-#### 2, 编辑.asset
+#### b, 编辑.asset
 可以直接拖入文件夹和图片，只能打包**.png**图片
 
 ![](https://github.com/garsonlab/TexturePacker/raw/master/Inspector.png)
